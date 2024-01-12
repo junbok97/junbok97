@@ -16,8 +16,8 @@
 <details>
 <summary>수료증</summary>
 <div markdown="1">
-<img width="1097" alt="멤버쉽" src="https://github.com/junbok97/junbok97/assets/71696675/dd9cfc97-7cd4-4b93-b52a-72bdf5959c5c">
 <img width="1099" alt="챌린지" src="https://github.com/junbok97/junbok97/assets/71696675/6b4ff118-5f21-483e-a57f-225746fa824d">
+<img width="1097" alt="멤버쉽" src="https://github.com/junbok97/junbok97/assets/71696675/dd9cfc97-7cd4-4b93-b52a-72bdf5959c5c">
 </div>
 </details>
 
