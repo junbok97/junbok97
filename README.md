@@ -21,7 +21,7 @@
 </div>
 </details>
 
-- **앨런 Swift문법 마스터 스쿨 `16기` `수료`** (2022.09 ~ 2022.12)<br/>
+- **앨런 Swift문법 마스터 스쿨 `16기` `수료`** (2022.11 ~ 2023.02)<br/>
 <details>
 <summary>수료증</summary>
 <div markdown="1">
