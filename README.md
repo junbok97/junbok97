@@ -10,6 +10,8 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:junbok97@gmail.com)](mailto:junbok97@gmail.com)
 </div>
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=junbok97)](https://solved.ac/junbok97/)
+
 ### 🧑🏻‍💻 Experiences
 
 - **네이버 커넥트재단 부스트캠프 웹・모바일 `iOS 8기` `챌린지` `멤버십` `수료`** (2023.07 ~ 2023.12)<br/>
