@@ -27,7 +27,7 @@
 
 - **앨런 Swift 문법 마스터 스쿨 `16기` `수료`** (2022.11 ~ 2023.02)<br/>
   - <details>
-      <summary>앨런 수료증</summary>
+      <summary>수료증</summary>
       <div markdown="1">
         <img width="1127" alt="앨런" src="https://github.com/junbok97/junbok97/assets/71696675/f5cf62ed-6334-4cb7-bd7a-925284b25bec">
       </div>
