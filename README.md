@@ -33,11 +33,11 @@
 
 ### 💾 Projects
 
-- 🔥 **HeatPick**: 여러분이 머문 자리에 따뜻한 온기를 남겨보세요 - 위치기반 SNS 서비스 [[GitHub](https://github.com/boostcampwm2023/iOS04-HeatPick)] (2023.11 ~ 2023.12) <br/>
-- 🍎 **UIKit** : UI를 코드로 만들어보자 ! [[GitHub](https://github.com/junbok97/iOS-UIKit)] (2023.05 ~ 2023.06) <br/>
+- 🔥 **HeatPick**: 여러분이 머문 자리에 따뜻한 온기를 남겨보세요 - 위치기반 SNS 서비스 [[GitHub]](https://github.com/boostcampwm2023/iOS04-HeatPick) (2023.11 ~ 2023.12) <br/>
+- 🍎 **UIKit** : UI를 코드로 만들어보자 ! [[GitHub]](https://github.com/junbok97/iOS-UIKit) (2023.05 ~ 2023.06) <br/>
 
 
 ### ✍🏻 Study
--  **BoostSwiftUI** : SwiftUI 뿌수기 [Github](https://github.com/BoostSwiftUI/SwiftUI)
+-  **BoostSwiftUI** : SwiftUI 뿌수기 [[Github]](https://github.com/BoostSwiftUI/SwiftUI) (2024.07 ~ )
 
 
