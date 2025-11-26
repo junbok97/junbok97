@@ -12,7 +12,8 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=junbok97)](https://solved.ac/junbok97/)
 
 ### 🧑🏻‍💻 Work Experiences
-- **Travel Wallet iOS Developer** (2025.07 ~ )<br/>
+- **Travel Wallet - iOS Developer** (2025.07 ~ )<br/>
+- **Daicon Lab - iOS Developer** (2024.08 ~ 2025.07)<br/>
 
 
 ### 👨🏻‍🎓 Educations
